@@ -1,4 +1,4 @@
-# STTX - Human Knowledge, Unchained.
+# Society for Transcendent Thought Exchange (STTX) - Human Knowledge, Unchained.
 
 ### Mission Statement
 
