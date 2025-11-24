@@ -61,8 +61,6 @@ Empower individuals to think freely, learn independently, and explore without ba
 
 Act in the spirit of generosity, curiosity, and shared human advancement.
 
-7. AI Generated Content is not allowed in the archives of this organization.
-
 ### Call for Contributors and Supporters
 
 STTX invites researchers, educators, creators, technologists, archivists, and lifelong learners to join us in building the world’s most open and enduring body of human knowledge.
